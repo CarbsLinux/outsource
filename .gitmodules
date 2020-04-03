@@ -1,0 +1,6 @@
+[submodule ".repositories/kiss_main"]
+	path = .repositories/kiss_main
+	url = https://github.com/kisslinux/repo
+[submodule "repositories/kiss_community"]
+	path = .repositories/kiss_community
+	url = https://github.com/kisslinux/community
